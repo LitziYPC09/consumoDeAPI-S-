@@ -1,0 +1,24 @@
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\Newtonsoft.Json.dll
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\Newtonsoft.Json.xml
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\Proyecto.489DB05A.Up2Date
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\bin\Debug\ProyectoFinal.exe.config
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\bin\Debug\ProyectoFinal.exe
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\bin\Debug\ProyectoFinal.pdb
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\bin\Debug\Newtonsoft.Json.dll
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\bin\Debug\Newtonsoft.Json.xml
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\obj\Debug\Proyecto.489DB05A.Up2Date
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\obj\Debug\ProyectoFinal.exe
+D:\Escritorio\ProyectoFinal\consumoDeAPI-S-\obj\Debug\ProyectoFinal.pdb
